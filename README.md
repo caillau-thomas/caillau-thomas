@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 Je suis actuellement étudiant à EPITECH Montpellier
 - 🌱 Je suis en PRé MSc PRO
