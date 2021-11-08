@@ -10,6 +10,8 @@ COMPETENCES
 PHP
 SQL
 PhpMyAdmin
+HTML
+CSS
 JavaScript
 C++
 C
