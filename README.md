@@ -4,6 +4,6 @@
 - 🌱 Je suis en PRé MSc PRO
 - 👯 Je cherche actuellement une alternance
 - ⚡ Je suis tout particulierment interressé par la cybersécurité
-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/a)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
