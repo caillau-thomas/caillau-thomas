@@ -26,5 +26,7 @@ Linux (Debian, Ubuntu, deepin, kali linux)
 Electronique
 Montage / soudage 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caillau-thomas&theme=tokyonight)
+
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=caillau-thomas)](https://github.com/anuraghazra/github-readme-stats)
 
