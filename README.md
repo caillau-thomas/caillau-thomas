@@ -18,12 +18,15 @@ C++
 C
 java
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/caillau-thomas/caillau-thomas/edit/main/README.md)
+
 ### SYSTEMES D'EXPLOITATION
 
 Microsoft Windows
 Linux (Debian, Ubuntu, deepin, kali linux)
 
 Electronique
-Montage / soudage 
+Montage
+soudage
+Raspberry
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/caillau-thomas/caillau-thomas/edit/main/README.md)
