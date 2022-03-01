@@ -13,12 +13,18 @@ PhpMyAdmin
 HTML
 CSS
 JavaScript
+React
 C++
 C
+java
 
 SYSTEMES D'EXPLOITATION
 
 Microsoft Windows
-Linux (Debian, Ubuntu, deepin)
+Linux (Debian, Ubuntu, deepin, kali linux)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Electronique
+Montage / soudage 
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=caillau-thomas)](https://github.com/anuraghazra/github-readme-stats)
+
