@@ -7,18 +7,20 @@
 
 ### COMPETENCES
 
-PHP
 SQL
-PhpMyAdmin
 HTML
 CSS
 JavaScript
-React
+ReactJs
 C++
 C
 java
+Go
+NodeJs
+TypeScript
+Graphql
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/caillau-thomas/caillau-thomas/edit/main/README.md)
+
 
 ### SYSTEMES D'EXPLOITATION
 
