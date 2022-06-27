@@ -21,6 +21,9 @@ TypeScript
 Graphql
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caillau-thomas&layout=compact)](https://github.com/caillau-thomas/github-readme-stats)
+
+
 
 ### SYSTEMES D'EXPLOITATION
 
