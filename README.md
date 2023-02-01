@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 Je suis actuellement étudiant à EPITECH Montpellier
-- 🌱 Je suis en PRé MSc PRO (3-ème année)
+- 🌱 Je suis en MSc PRO (4-ème année)
 - 👯 Alternant en dévellopement web
 - ⚡ Je suis tout particulierment interressé par la cybersécurité
 
