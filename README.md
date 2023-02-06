@@ -2,7 +2,7 @@
 
 - 🔭 Je suis actuellement étudiant à EPITECH Montpellier
 - 🌱 Je suis en MSc PRO (4-ème année)
-- 👯 Alternant en dévellopement web
+- 👯 Alternant en dévelopement web
 - ⚡ Je suis tout particulierment interressé par la cybersécurité
 
 ### COMPETENCES
