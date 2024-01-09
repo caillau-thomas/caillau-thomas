@@ -1,18 +1,18 @@
 ### Hello there 👋
 
-- 🔭 Je suis actuellement étudiant à EPITECH Montpellier
-- 🌱 Je suis en MSc PRO (5-ème année)
-- 👯 Alternant en dévelopement web front
+- 🔭 Je suis actuellement étudiant à EPITECH Montpellier en 5-ème année
+- 🌱 Dev junior frontend
 
 ### COMPETENCES
 
-SQL
-HTML
-CSS
 JavaScript
-React
+RecatJS
+React Native
 NodeJs
+
 TypeScript
+
+SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caillau-thomas&layout=compact)](https://github.com/caillau-thomas/github-readme-stats)
 
