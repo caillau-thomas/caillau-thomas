@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 Ouvert à des opportunités !
-- 🌱 Dev junior frontend
+- 🌱 Dev frontend
 
 <a href="https://github.com/caillau-thomas/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caillau-thomas" />
