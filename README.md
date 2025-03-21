@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 Moi c’est Thomas, un jeune développeur web passionné en recherche d’opportunités et de nouveaux défis professionnels !
+- 🔭 Moi c’est Thomas, un jeune développeur web passionné en recherche d’opportunités et de nouveaux défis !
 - 🌱 Je suis joignable au 06.42.89.87.02 et à l'adresse tcaillau.dev@gmail.com
 - Vous pouvez retrouver mon portfolio ici 👉​  https://caillau-thomas.github.io/portfolio
 
